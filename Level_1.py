@@ -52,7 +52,7 @@ def lev_1() :
         pygame.image.load(os.path.join(image_path, "balloon4.png"))]
 
     # 4 kind of Balls' speed
-    ball_speed_y = [-18, -15, -12, -9] # index 0, 1, 2, 3에 해당하는 값
+    ball_speed_y = [-18, -15, -12, -9]
 
     # To make multiple balls at the same time
     balls = []
