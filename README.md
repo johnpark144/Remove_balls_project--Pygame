@@ -16,12 +16,15 @@ Please ignore the letters " Recorded with ..." at the center of the video..
 
 # operation key 
 → : write side
+
 ← : left side
+
 space_bar : Attacks
 
 
 # About comment
 English comment : Main_remove_balls.py, Level_1.py
+
 Korean comment : Rest of them
 
 
