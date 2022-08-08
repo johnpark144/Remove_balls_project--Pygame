@@ -10,11 +10,13 @@ Game_Start :
 
 
 Collision :
-<img src="https://user-images.githubusercontent.com/106279616/183230873-18ca1d6f-0451-4000-b487-69c35047d183.mp4">
+<video src="https://user-images.githubusercontent.com/106279616/183525682-17308994-9ddb-480c-a31d-945ace79ab62.mp4" data-canonical-src="https://user-images.githubusercontent.com/106279616/183525682-17308994-9ddb-480c-a31d-945ace79ab62.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+</video>
 
 
 All_level_clear :
-<img src="https://user-images.githubusercontent.com/106279616/183230875-342d61e2-2165-4355-87fe-1ec7604fff88.mp4">
+<video src="https://user-images.githubusercontent.com/106279616/183525705-dbd599ea-e988-4364-8d9d-3a482071f365.mp4" data-canonical-src="https://user-images.githubusercontent.com/106279616/183525705-dbd599ea-e988-4364-8d9d-3a482071f365.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+</video>
 
 
 Please ignore the letters " Recorded with ..." at the center of the video..
