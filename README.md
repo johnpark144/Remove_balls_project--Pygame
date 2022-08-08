@@ -5,7 +5,8 @@ rest of them are modules for each levels
 
 # Sample Video
 Game_Start :
-<img src="https://user-images.githubusercontent.com/106279616/183525636-58dd4ac5-0e57-4d76-a712-385868856548.mp4">
+<video src="https://user-images.githubusercontent.com/106279616/183525636-58dd4ac5-0e57-4d76-a712-385868856548.mp4" data-canonical-src="https://user-images.githubusercontent.com/106279616/183525636-58dd4ac5-0e57-4d76-a712-385868856548.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+</video>
 
 
 Collision :
