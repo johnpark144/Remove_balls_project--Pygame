@@ -5,7 +5,7 @@ rest of them are modules for each levels
 
 # Sample Video
 Game_Start :
-<img src="https://github.com/johnpark144/Remove_balls_project--Pygame/issues/1">
+<img src="https://user-images.githubusercontent.com/106279616/183525636-58dd4ac5-0e57-4d76-a712-385868856548.mp4">
 
 
 Collision :
