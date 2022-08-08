@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/106279616/183230875-342d61e2-2165-4355
 
 Please ignore the letters " Recorded with ..." at the center of the video..
 
-# operation key 
+# Operation key 
 → : write side
 
 ← : left side
