@@ -1,3 +1,10 @@
+# - Creater : Yeonghwan Park (John Park)
+# - Tools : Python(Pygame)
+# - Explantion :
+# This is the game removing all balls, There are 7 levels to clear in total and you have 5 lives
+# - Date of creation : Jul 31st ~ Aug 5th 2022
+
+
 import os
 import pygame
 import sys
