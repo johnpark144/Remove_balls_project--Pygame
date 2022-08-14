@@ -4,17 +4,10 @@
 - Explantion :
 This is the game removing all balls, There are 7 levels to clear in total and you have 5 lives
 
-"Main_remove_balls.py" is main to play
-rest of them are modules for each levels
+- "Main_remove_balls.py" is main to play, rest of them are modules for each levels
 
 - Date of creation : Jul 31st ~ Aug 5th 2022
-- Operation key: 
-
-→ : write side
-
-← : left side
-
-space_bar : Attacks
+- Operation key: → : write side // ← : left side // space_bar : Attacks
 
 
 # Sample Video
